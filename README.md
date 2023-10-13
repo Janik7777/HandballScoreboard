@@ -14,4 +14,5 @@
 - 2 Minuten:
     - Nummer und Timer in Liste pro Team
     - Timer in Sync mit game_clock
+    - Berücksichtige doppelte Zeitstrafe
 
